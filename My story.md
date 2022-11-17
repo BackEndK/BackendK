@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @BackendDevKang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+안녕하세요 학생 신입 개발자 강 입니다
+- 아직 많이 초보구요 ㅎㅎ 꾸준히 업로드 커밋할려고 만들어봤습니다
+-  
+- 
+- 
 
-<!---
-BackendDevKang/BackendDevKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
